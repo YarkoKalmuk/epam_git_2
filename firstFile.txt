@@ -1,7 +1,7 @@
-Line 1: Apple
+Line 1: Apple modified from folder2
 Line 2: Strawberry
 Line 3: Raspberry
-Line 4: Date
+Line 4: Date modified from folder2
 Line 5: Elderberry
 Line 6: Fig
 Line 7: Watermelon
