@@ -1,10 +1,15 @@
 Line 1: Apple modified from folder2
 Line 2: Strawberry
 Line 3: Raspberry
+<<<<<<< Updated upstream
 Line 4: Date modified from folder2
 Line 5: Elderberry
 Line 6: Fig
+=======
+Line 4: Date
+Line 5: Elderberry modified from folder1
+Line 6: Fig modified from folder1
+>>>>>>> Stashed chang
 Line 7: Watermelon
 Line 8: Pineapple
-Line 9: Kiwi
-Line 10: Lemon
+Line 9: KiwiLine 10: Lemon
