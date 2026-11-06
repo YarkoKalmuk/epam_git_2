@@ -2,6 +2,8 @@ Line 1: Red
 Line 2: Blue
 Line 3: Light Green from git_1
 Line 4: Golden Yellow from git_1
+Line 3: Dark Green from git_2
+Line 4: Bright Yellow from git_2
 Line 5: Purple
 Line 6: Orange
 Line 7: Pink
